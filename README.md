@@ -1,42 +1,56 @@
-# Olá, eu sou o Renato Martins 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC"/>
+<div align="center">
+  <samp>
+      Olá, mundo! :)
+      <br>
+  </samp>
 
-### 🚀 Desenvolvedor Full Stack em construção
-Sou apaixonado por criar interfaces modernas e funcionais. Atualmente, foco meu aprendizado na construção de aplicações robustas e escaláveis, unindo o poder do ecossistema React com tecnologias de backend.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=007ACC&center=true&width=900&lines=Bem-Vindo(a)!;Estudante+de+Engenharia+de+Software+@+UFC;Futuro+Desenvolvedor+Full+Stack;Conheça+mais+sobre+minha+jornada+abaixo:)]()
+</div>
 
----
+### 🎓 Sobre Mim:
 
-### 🛠️ Tecnologias e Ferramentas
+Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (Campus Russas)**. Minha paixão pela tecnologia me move a explorar como construir soluções que unam um design impecável a uma arquitetura de código sólida.
 
-**Frontend:**
-- **React.js** (Hooks, Context API)
-- **Next.js** (App Router)
-- **TypeScript** (Interfaces, Types, Generics)
-- **Tailwind CSS** (Estilização utilitária e responsividade)
-- **Framer Motion** (Animações fluidas)
-
-**Ferramentas:**
-- Git & GitHub Desktop
-- VS Code
+Atualmente, dedico meus estudos ao ecossistema **React e Next.js**, utilizando **TypeScript** para garantir qualidade e segurança nas minhas aplicações. Meu objetivo principal é evoluir para o desenvolvimento **Full Stack**, integrando o que há de mais moderno no frontend com soluções de backend robustas.
 
 ---
 
-### 📂 Projetos em Destaque
+### 🛠️ Tecnologias e Ferramentas:
 
-#### 🎬 TMDB Movie App
-Aplicação que consome a API do TMDB para listar filmes, com foco em:
-- **Consumo de API REST** com tratamento de dados.
-- **Design Responsivo** para todos os dispositivos.
-- **Animações** de transição entre telas.
-- [Link para o repositório]
+#### 🕓 Versioning & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+#### 🖥️ Front-End & UI
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,next)](https://skillicons.dev)
+
+#### 🚀 Back-End
+[![Learning](https://skillicons.dev/icons?i=nodejs,postgres,prisma)](https://skillicons.dev)
+
+#### 💾 Databases
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renatomart15&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=dark)
+
+| Linguagens mais usadas | Status do Perfil |
+| ------------- | ------------- |
+| <a href="https://github.com/SEU_USER"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dark&hide_border=true&title_color=007ACC" alt="Top Languages" /></a> | <a href="https://github.com/SEU_USER"><img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark&hide_border=true&title_color=007ACC" alt="GitHub Stats" /></a> |
 
 ---
 
-### 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/renato-martins-7b655b261/
-- **Email:** rrbarros1505@gmail.com
+### 📫 Como me encontrar:
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="mailto:SEU_EMAIL@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</div>
+
+<br>
+
+- 🌱 Atualmente aprendendo: **Node.js, Bancos de Dados e Arquitetura Full Stack**
+- 💬 Pergunte-me sobre: **React, Tailwind CSS e Engenharia de Software**
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer"/>
