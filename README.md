@@ -25,10 +25,10 @@ Atualmente, dedico meus estudos ao ecossistema **React e Next.js**, utilizando *
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,next)](https://skillicons.dev)
 
 #### 🚀 Back-End
-[![Learning](https://skillicons.dev/icons?i=nodejs,postgres,prisma)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 #### 💾 Databases
-
+[![Learning](https://skillicons.dev/icons?postgres)](https://skillicons.dev)
 ---
 
 ### 📊 Estatísticas do GitHub
