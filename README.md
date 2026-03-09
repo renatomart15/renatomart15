@@ -10,26 +10,28 @@
 
 ### 🎓 Sobre Mim:
 
-Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (Campus Russas)**. Minha paixão pela tecnologia me move a explorar como construir soluções que unam um design impecável a uma arquitetura de código sólida.
+Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (Campus Russas)**. Minha paixão pela tecnologia me move a construir soluções que unam um design impecável a uma arquitetura de código sólida.
 
-Atualmente, dedico meus estudos ao ecossistema **React e Next.js**, utilizando **TypeScript** para garantir qualidade e segurança nas minhas aplicações. Meu objetivo principal é evoluir para o desenvolvimento **Full Stack**, integrando o que há de mais moderno no frontend com soluções de backend robustas.
+Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript** para garantir qualidade e segurança. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**, integrando interfaces modernas a soluções de backend robustas.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 
 #### 🕓 Versioning & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### 🖥️ Front-End & UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind,motion)](https://skillicons.dev)
 
-#### 🚀 Back-End
-[![Learning](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+#### ⚙️ Back-End
+[![Learning](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
 
-#### 💾 Databases
-[![Learning](https://skillicons.dev/icons?postgres)](https://skillicons.dev)
----
+#### 💾 Database
+[![Learning](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+#### 🔨 Others
+[![Learning](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### 📊 Estatísticas do GitHub
 
@@ -48,8 +50,9 @@ Atualmente, dedico meus estudos ao ecossistema **React e Next.js**, utilizando *
 
 <br>
 
-- 🌱 Atualmente aprendendo: **Node.js, Bancos de Dados e Arquitetura Full Stack**
+- 🌱 Atualmente estudando: **Arquitetura de APIs com Node.js e PostgreSQL**
 - 💬 Pergunte-me sobre: **React, Tailwind CSS e Engenharia de Software**
+- ⚡ Curiosidade: Aplico os conceitos de Engenharia da UFC Russas para criar interfaces responsivas e código tipado.
 
 <br>
 
