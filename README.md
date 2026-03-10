@@ -17,22 +17,3 @@ Atualmente, foco meus estudos em **Next.js**, utilizando **TypeScript**. Meu obj
 
 #### 🛠️ Others
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
----
-
-## 📊 Estatísticas do GitHub
-
-| Linguagens mais usadas | Status do Perfil |
-| ------------- | ------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=dark&hide_border=true&title_color=007ACC) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatomart15&show_icons=true&theme=dark&hide_border=true&title_color=007ACC) |
-
----
-
-## 📫 Como me encontrar
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/renato-martins-7b655b261/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="mailto:rrbarros1505@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</div>
-
-<br>
