@@ -1,14 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00008b"/>
 
-### 🎓 Sobre Mim:
+### Olá 👋, meu nome é Renato Martins 
+
+## 🎓 Sobre Mim:
 
 Sou estudante de **Engenharia de Software na Universidade Federal do Ceará**.
 
 Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript**. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**.
 
----
 
-### 🛠️ Tecnologias e Ferramentas:
+## 🛠️ Tecnologias e Ferramentas:
 
 #### 🕓 Versioning & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
@@ -27,7 +28,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 | Linguagens mais usadas | Status do Perfil |
 | ------------- | ------------- |
@@ -35,7 +36,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 
 ---
 
-### 📫 Como me encontrar:
+## 📫 Como me encontrar
 
 <div align="left">
   <a href="https://www.linkedin.com/in/renato-martins-7b655b261/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -44,10 +45,4 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 
 <br>
 
-- 🌱 Atualmente estudando: **Arquitetura de APIs com Node.js e PostgreSQL**
-- 💬 Pergunte-me sobre: **React, Tailwind CSS e Engenharia de Software**
-- ⚡ Curiosidade: Aplico os conceitos de Engenharia da UFC Russas para criar interfaces responsivas e código tipado.
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00008b"/>
