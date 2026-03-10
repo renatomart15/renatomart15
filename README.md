@@ -12,7 +12,7 @@
 
 Sou estudante de **Engenharia de Software na Universidade Federal do Ceará**. Minha paixão pela tecnologia me move a construir soluções que unam um design impecável a uma arquitetura de código sólida.
 
-Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript** para garantir qualidade e segurança. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**, integrando interfaces modernas a soluções de backend robustas.
+Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript**. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**.
 
 ---
 
@@ -31,7 +31,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 [![Learning](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 #### 🔨 Others
-[![Learning](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### 📊 Estatísticas do GitHub
 
