@@ -5,7 +5,7 @@
       <br>
   </samp>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=007ACC&center=true&width=900&lines=Bem-Vindo(a)!;Estudante+de+Engenharia+de+Software+@+UFC;Futuro+Desenvolvedor+Full+Stack;Conheça+mais+sobre+minha+jornada+abaixo:)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=007ACC&center=true&width=900&lines=Bem-Vindo(a)!;Estudante+de+Engenharia+de+Software+@+UFC;Futuro+Desenvolvedor+Full+Stack;Conheça+mais+sobre+minha+jornada+abaixo:)]()
 </div>
 
 ### 🎓 Sobre Mim:
@@ -44,8 +44,8 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 ### 📫 Como me encontrar:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="mailto:SEU_EMAIL@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/renato-martins-7b655b261/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="mailto:rrbarros1505@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </div>
 
 <br>
