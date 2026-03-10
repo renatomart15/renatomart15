@@ -1,12 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=007ACC"/>
-<div align="center">
-  <samp>
-      Olá, mundo! :)
-      <br>
-  </samp>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=500&color=007ACC&center=true&width=900&lines=Bem-Vindo(a)!;Estudante+de+Engenharia+de+Software+@+UFC;Futuro+Desenvolvedor+Full+Stack;Conheça+mais+sobre+minha+jornada+abaixo:)]()
-</div>
 
 ### 🎓 Sobre Mim:
 
