@@ -4,7 +4,7 @@
 
 Sou estudante de **Engenharia de Software na Universidade Federal do Ceará**.
 
-Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript**. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**.
+Atualmente, foco meus estudos em **Next.js**, utilizando **TypeScript**. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**.
 
 
 ## 🛠️ Tecnologias e Ferramentas:
