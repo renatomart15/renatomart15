@@ -13,13 +13,7 @@ Atualmente, foco meus estudos em **Next.js**, utilizando **TypeScript**. Meu obj
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### 🖥️ Front-End & UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,next)](https://skillicons.dev)
-
-#### ⚙️ Back-End
-[![Learning](https://skillicons.dev/icons?i=js,ts,nodejs,express)](https://skillicons.dev)
-
-#### 💾 Database
-[![Learning](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next)](https://skillicons.dev)
 
 #### 🛠️ Others
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
