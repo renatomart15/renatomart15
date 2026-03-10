@@ -9,7 +9,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 
 ## 🛠️ Tecnologias e Ferramentas:
 
-#### 🕓 Versioning & Tools
+#### 🕓 Versioning
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### 🖥️ Front-End & UI
@@ -21,7 +21,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 #### 💾 Database
 [![Learning](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
-#### 🔨 Others
+#### 🛠️ Others
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
