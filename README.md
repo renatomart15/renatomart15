@@ -37,7 +37,7 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 
 | Linguagens mais usadas | Status do Perfil |
 | ------------- | ------------- |
-| <a href="https://github.com/SEU_USER"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dark&hide_border=true&title_color=007ACC" alt="Top Languages" /></a> | <a href="https://github.com/SEU_USER"><img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark&hide_border=true&title_color=007ACC" alt="GitHub Stats" /></a> |
+| <a href="https://github.com/renatomart15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=dark&hide_border=true&title_color=007ACC" alt="Top Languages" /></a> | <a href="https://github.com/renatomart15"><img src="https://github-readme-stats.vercel.app/api?username=renatomart15&show_icons=true&theme=dark&hide_border=true&title_color=007ACC" alt="GitHub Stats" /></a> |
 
 ---
 
