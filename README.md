@@ -13,10 +13,10 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 #### 🖥️ Front-End & UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,next,tailwind,motion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,next)](https://skillicons.dev)
 
 #### ⚙️ Back-End
-[![Learning](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,ts,nodejs,express)](https://skillicons.dev)
 
 #### 💾 Database
 [![Learning](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
