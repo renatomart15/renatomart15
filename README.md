@@ -10,7 +10,7 @@
 
 ### 🎓 Sobre Mim:
 
-Sou estudante de **Engenharia de Software na Universidade Federal do Ceará (Campus Russas)**. Minha paixão pela tecnologia me move a construir soluções que unam um design impecável a uma arquitetura de código sólida.
+Sou estudante de **Engenharia de Software na Universidade Federal do Ceará**. Minha paixão pela tecnologia me move a construir soluções que unam um design impecável a uma arquitetura de código sólida.
 
 Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **TypeScript** para garantir qualidade e segurança. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**, integrando interfaces modernas a soluções de backend robustas.
 
