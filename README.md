@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00008b"/>
-
 # Olá 👋, meu nome é Renato Martins 
 
 ## 🎓 Sobre Mim:
@@ -44,5 +42,3 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 </div>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00008b"/>
