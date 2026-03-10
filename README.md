@@ -33,11 +33,13 @@ Atualmente, foco meus estudos no ecossistema **React e Next.js**, utilizando **T
 #### 🔨 Others
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 | Linguagens mais usadas | Status do Perfil |
 | ------------- | ------------- |
-| <a href="https://github.com/renatomart15"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=dark&hide_border=true&title_color=007ACC" alt="Top Languages" /></a> | <a href="https://github.com/renatomart15"><img src="https://github-readme-stats.vercel.app/api?username=renatomart15&show_icons=true&theme=dark&hide_border=true&title_color=007ACC" alt="GitHub Stats" /></a> |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=dark&hide_border=true&title_color=007ACC) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatomart15&show_icons=true&theme=dark&hide_border=true&title_color=007ACC) |
 
 ---
 
