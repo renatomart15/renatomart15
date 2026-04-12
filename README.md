@@ -17,3 +17,5 @@ Atualmente, foco meus estudos em **Next.js**, utilizando **TypeScript**. Meu obj
 
 #### 🛠️ Others
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=radical)
