@@ -4,18 +4,26 @@
 
 Sou estudante de **Engenharia de Software na Universidade Federal do Ceará**.
 
-Atualmente, foco meus estudos em **Next.js**, utilizando **TypeScript**. Meu objetivo principal é a evolução para o desenvolvimento **Full Stack**.
+Atualmente, foco meus estudos em desenvolvimento **Full Stack** com **TypeScript**, utilizando **Next.js** no **front-end** e construindo **APIs REST com Express**.
 
+# 🛠️ Tecnologias e Ferramentas:
+<div align="center">
+  <p><strong>Front-end & Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss" alt="Ícones de Front-end e Design" />
+  <br><br>
+  
+  <p><strong>Back-end & Banco de Dados</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgresql" alt="Ícones de Back-end e Banco de Dados" />
+  <br><br>
+  
+  <p><strong>Infraestrutura & Ferramentas</strong></p>
+  <img src="https://skillicons.dev/icons?i=vite,git,github" alt="Ícones de Infraestrutura e Ferramentas" />
+  
+  
+</div>
 
-### 🛠️ Tecnologias e Ferramentas:
+---
+<div align="center">
 
-#### 🕓 Versioning
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-#### 🖥️ Front-End & UI
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next)](https://skillicons.dev)
-
-#### 🛠️ Others
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-
-![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=radical)
+  ![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=radical)
+</div>
