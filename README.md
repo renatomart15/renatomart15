@@ -8,7 +8,7 @@ Atualmente, foco meus estudos em desenvolvimento **Full Stack** com **TypeScript
 
 # 🛠️ Tecnologias e Ferramentas:
 <div align="center">
-  <p><strong>Front-end & Design</strong></p>
+  <p><strong>Front-end</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,figma" alt="Ícones de Front-end e Design" />
   <br><br>
   
