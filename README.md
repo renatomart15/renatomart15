@@ -26,6 +26,6 @@ Atualmente, foco meus estudos em desenvolvimento **Full Stack** com **TypeScript
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=renatomart15&theme=radical" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatomart15&layout=compact&theme=radical" />
 </div>
